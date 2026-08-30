@@ -1,13 +1,1 @@
-# Archivos de compilación de Maven / Java
-target/
-*.class
-
-# Archivos de configuración interna de Eclipse
-.classpath
-.project
-.settings/
-.recommenders/
-
-# Archivos del sistema operativo
-.DS_Store
-Thumbs.db
+/target/
