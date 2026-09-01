@@ -1,4 +1,4 @@
-package com.matematicos.fisica.cinematica;
+package com.matematicas.fisica.cinematica;
 
 public class Cinematica {
 	
