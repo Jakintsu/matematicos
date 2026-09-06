@@ -1,4 +1,4 @@
-package com.matematicos.geometria2D;
+package com.matematicas.geometria2D;
 
 public class Geometria2D {
 	
