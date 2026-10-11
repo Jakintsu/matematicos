@@ -2,6 +2,9 @@ package com.matematicas.electricidad.magnetismo;
 
 public class Magnetismo {
 	
+    public static final double K_COULOMB = 8.9875517923e9; // N*m^2/C^2 (Constante de Coulomb)
+    public static final double MU_0 = 4 * Math.PI * 1e-7;    // T*m/A (Permeabilidad magnética del vacío)
+	
 	/**
      * Calcula la fuerza magnética sobre una carga en movimiento (Fuerza de Lorentz).
      * @param q     Carga en Coulombs (C)
